@@ -1,4 +1,4 @@
-package jooq-tutorial;
+package jooqtutorial;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

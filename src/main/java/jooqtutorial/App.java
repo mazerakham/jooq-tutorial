@@ -1,4 +1,4 @@
-package jooq-tutorial;
+package jooqtutorial;
 
 /**
  * Hello world!
